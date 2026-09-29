@@ -1,0 +1,6 @@
+{
+  "name": "SHORT 6T9",
+  "description": "Short video sharing platform with instant playback, rewarded ad video unlocking, download manager, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
